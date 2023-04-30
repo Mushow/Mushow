@@ -3,7 +3,7 @@
 
 <h2>About me</h2>
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/105550256/235345525-e80f29ff-ecf3-4533-9303-0f3af2f3d2cf.svg" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/105550256/235345556-b96636f2-7aa3-4db9-a6ee-381d2c1ed93d.svg" width = 250px></picture>
 
 <br>
 
