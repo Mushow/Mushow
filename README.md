@@ -3,7 +3,7 @@
 
 <h2>About me</h2>
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/105550256/235344693-cd1a2f19-d495-408f-a756-273e8f0191ec.svg" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/105550256/235345525-e80f29ff-ecf3-4533-9303-0f3af2f3d2cf.svg" width = 250px></picture>
 
 <br>
 
@@ -26,7 +26,7 @@
     [![Algorithm](https://skillicons.dev/icons?i=c,python,mysql)](https://skillicons.dev)
 	
 <br>   
-    
+
 - **Front-End Development**:
 
     [![Front-End](https://skillicons.dev/icons?i=js,html,css,scss)](https://skillicons.dev)
