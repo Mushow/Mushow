@@ -12,7 +12,7 @@
 - Studying towards CompTIA Security+
 - [Portfolio](https://www.mushow.co.uk/) (MacOS | AppStore Design)
 - [Linkedin](https://www.linkedin.com/in/mushowuk/)
-- I’m currently open for an Internship in the UK this is [my resume]()
+- I’m currently open for an Internship in the UK this is [my resume](https://github.com/Mushow/mushow/blob/main/British%20Resume.pdf)
 
 <br><br>
 
