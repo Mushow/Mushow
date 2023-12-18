@@ -9,10 +9,9 @@
 
 - A passionate self-taught developer
 - CTF enthusiast hones cybersecurity skills
-- Studying towards CompTIA Security+
-- [Portfolio](https://www.mushow.co.uk/) (MacOS | AppStore Design)
+- [Portfolio](https://www.mushow.co.uk/)
 - [Linkedin](https://www.linkedin.com/in/mushowuk/)
-- I’m currently open for an Internship in the UK this is [my resume](https://github.com/Mushow/mushow/blob/main/British%20Resume.pdf)
+- I’m currently looking for an apprenticeship in Greater Paris Metropolitan Area [my resume](https://github.com/Mushow/mushow/blob/main/British%20Resume.pdf)
 
 <br><br>
 
