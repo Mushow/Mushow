@@ -11,7 +11,7 @@
 - CTF enthusiast hones cybersecurity skills
 - [Portfolio](https://www.mushow.co.uk/)
 - [Linkedin](https://www.linkedin.com/in/mushowuk/)
-- I’m currently looking for an apprenticeship in Greater Paris Metropolitan Area [my resume](https://github.com/Mushow/mushow/blob/main/British%20Resume.pdf)
+- I’m currently looking for an apprenticeship in Greater Paris Metropolitan Area
 
 <br><br>
 
