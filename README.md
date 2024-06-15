@@ -22,20 +22,13 @@
 
 - **Languages**:
     
-    [![Algorithm](https://skillicons.dev/icons?i=c,python,mysql)](https://skillicons.dev)
+    [![Algorithm](https://skillicons.dev/icons?i=c,rust,python,mysql,solidity,graphql)](https://skillicons.dev)
 	
 <br>   
 
 - **Front-End Development**:
 
     [![Front-End](https://skillicons.dev/icons?i=js,html,css,scss)](https://skillicons.dev)
-
-<br>   
-    
-- **Back-End Development**:
-	
-	
-    [![Back-End](https://skillicons.dev/icons?i=java,php)](https://skillicons.dev)
 	
 <br>
 	
