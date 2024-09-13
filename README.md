@@ -11,7 +11,10 @@
 - CTF enthusiast hones cybersecurity skills
 - [Portfolio](https://www.mushow.co.uk/)
 - [Linkedin](https://www.linkedin.com/in/mushowuk/)
-- I’m currently looking for an apprenticeship in Greater Paris Metropolitan Area
+- Junior Verification Engineer @ FormalLand - Paris, France
+
+Developing a [Gaming Account Marketplace](https://safexchange.io) with seamless smart contract integration to ensure secure, trustless transactions and prevent fraud.
+Learning Blockchain Development & Security on [Cyfrin Updraft](https://updraft.cyfrin.io/courses)
 
 <br><br>
 
@@ -22,13 +25,13 @@
 
 - **Languages**:
     
-    [![Algorithm](https://skillicons.dev/icons?i=c,rust,python,mysql,solidity,graphql)](https://skillicons.dev)
+    [![Algorithm](https://skillicons.dev/icons?i=java,rust,python,mysql,solidity)](https://skillicons.dev)
 	
 <br>   
 
 - **Front-End Development**:
 
-    [![Front-End](https://skillicons.dev/icons?i=js,html,css,scss)](https://skillicons.dev)
+    [![Front-End](https://skillicons.dev/icons?i=js,html,css,scss,tailwind)](https://skillicons.dev)
 	
 <br>
 	
